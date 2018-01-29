@@ -1,5 +1,5 @@
 # Arduino.SolarTracker
-> Solar tracking (single axis) with arduino 
+> Deciding which direction to rotate the stepper motor by the difference between the values of the LDR's
 
 ## Components
 
@@ -16,4 +16,5 @@
 * Breadboard x1
 
 
-![](breadboardConstruction.jpg)
+![Breadboard Construction](breadboardConstruction.jpg)
+![A Photo of The System](photo.jpg)
