@@ -17,4 +17,4 @@
 
 
 ![Breadboard Construction](breadboardConstruction.jpg)
-![A Photo of The System](photo.jpg)
+![A Photo of The System](photo.JPG)
